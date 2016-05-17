@@ -21,6 +21,16 @@ After you have this project installed simply run `ash standup` and follow throug
 
 After you are done a formatted standup should be copied to your clipboard (assuming you have pbcopy installed).  If you don't have pbcopy, it will be echoed out, and will be your responsibility to copy.
 
+## What does it look like?
+
+The terminal:
+
+![](http://i.imgur.com/pishOOg.png)
+
+Pasted in slack:
+
+![](http://i.imgur.com/uCuq3OI.png)
+
 ## License
 
 [MIT](LICENSE.md)
