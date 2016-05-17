@@ -1,0 +1,4 @@
+name: Standup
+package: github.com/ash-shell/standup
+default_alias: standup
+callable_prefix: Standup
